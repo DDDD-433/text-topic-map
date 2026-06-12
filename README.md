@@ -2,7 +2,7 @@
 
 Interactive topic map of 2,126 BBC News articles: sentence embeddings → BERTopic clustering → UMAP 2D projection → Streamlit dashboard.
 
-**Live demo:** [Hugging Face Space](HF_SPACE_URL_PLACEHOLDER) · **Code:** [GitHub](https://github.com/DDDD-433/text-topic-map)
+**Live demo:** [Hugging Face Space](https://huggingface.co/spaces/DDDDD-433/text-topic-map) · **Code:** [GitHub](https://github.com/DDDD-433/text-topic-map)
 
 ![Dashboard preview](assets/dashboard_preview.png)
 
