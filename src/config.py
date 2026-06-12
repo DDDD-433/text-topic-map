@@ -17,5 +17,5 @@ DATASET_NAME = "SetFit/bbc-news"
 MAX_ROWS = 5000
 
 EMBEDDING_MODEL = "sentence-transformers/all-MiniLM-L6-v2"
-MIN_TOPIC_SIZE = 20
+MIN_TOPIC_SIZE = 15
 RANDOM_STATE = 42

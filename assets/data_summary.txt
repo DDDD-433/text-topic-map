@@ -1,0 +1,9 @@
+Dataset: SetFit/bbc-news
+Rows after cleaning: 2126
+
+Label distribution:
+  sport: 504
+  business: 503
+  politics: 403
+  entertainment: 369
+  tech: 347
