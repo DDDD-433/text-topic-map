@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Data — raw downloads are reproducible; processed parquet is committed for the HF Space
+data/raw/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+
+# Caches
+.cache/
+*.log

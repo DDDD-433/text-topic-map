@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn
+umap-learn
+sentence-transformers
+bertopic
+plotly
+streamlit
+datasets
+pyarrow
