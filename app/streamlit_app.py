@@ -41,7 +41,7 @@ df, topic_summary = load_data()
 # ---------------------------------------------------------------- header
 st.title("🗺️ Text Topic Map — BBC News")
 st.caption(
-    "2,225 BBC News articles embedded with MiniLM, clustered with BERTopic, "
+    f"{len(df):,} BBC News articles embedded with MiniLM, clustered with BERTopic, "
     "and projected to 2D with UMAP. Each point is one article."
 )
 
